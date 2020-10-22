@@ -1,4 +1,4 @@
-name: Automation – Saving time for…loosing more time
+name: BlogFeedRunner
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour

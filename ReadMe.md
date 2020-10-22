@@ -39,7 +39,6 @@
 - [Automation – Saving time for…loosing more time](http://blog.tryfailgrow.info/2020/10/03/automation-saving-time-forloosing-more-time/)
 - [The tipping point  – overwhelmed by too much information](http://blog.tryfailgrow.info/2020/10/03/the-tipping-point-overwhelmed-by-too-much-information/)
 - [Eating paper – more food for less quality](http://blog.tryfailgrow.info/2020/10/03/eating-paper-more-food-for-less-quality/)
-- [Why to quit smoking – an A.I. Story lesson](http://blog.tryfailgrow.info/2020/03/22/how-to-quit-smoking-an-a-i-story-lesson/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ReadMe Profile Build Resources :construction:

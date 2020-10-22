@@ -35,6 +35,10 @@
 <br />
 
 
+# Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### ReadMe Profile Build Resources :construction:
  - [Next Level GitHub Profile](https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=614s)
  - [Building Workflow](https://github.com/gautamkrishnar/blog-post-workflow)

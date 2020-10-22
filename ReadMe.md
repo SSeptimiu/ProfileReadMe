@@ -34,7 +34,6 @@
 <br />
 <br />
 
-
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -43,8 +42,6 @@
  - [Next Level GitHub Profile](https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=614s)
  - [Building Workflow](https://github.com/gautamkrishnar/blog-post-workflow)
  - [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-
-
 
 </details>
 
@@ -56,4 +53,3 @@
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/scrob-nica-septimiu/?locale=de_DE
 [VSCode]: https://code.visualstudio.com/
-

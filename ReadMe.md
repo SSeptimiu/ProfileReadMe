@@ -36,9 +36,9 @@
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Truth but who’s? –  “if thought corrupts language, language can also corrupt thought”](http://blog.tryfailgrow.info/2021/02/11/truth-but-whos-if-thought-corrupts-language-language-can-also-corrupt-thought/)
 - [Group chats – where Chaos runs supreme](http://blog.tryfailgrow.info/2021/01/07/group-chats-where-chaos-runs-supreme/)
 - [Automation – Saving time for…loosing more time](http://blog.tryfailgrow.info/2020/10/03/automation-saving-time-forloosing-more-time/)
-- [The tipping point  – overwhelmed by too much information](http://blog.tryfailgrow.info/2020/10/03/the-tipping-point-overwhelmed-by-too-much-information/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ReadMe Profile Build Resources :construction:

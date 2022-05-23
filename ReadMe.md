@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Create more educational videos and contribute to the open source community
+- 🥅 2022 Goals: Create more educational videos and contribute to the open source community
 - ⚡ Fun fact: I love to travel and play piano(even though I am an absolute beginner)
 
 <br /><br />
